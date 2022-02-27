@@ -1,10 +1,4 @@
-jQuery(document).ready(function(){
-     "use strict"
-     $('.slider').ripples({
-          dropRadius: 20,
-          perturbance: 1,
-          
-      });
+
 
     
      var typed = new Typed('.text', {
@@ -56,7 +50,7 @@ jQuery(document).ready(function(){
             $('a.smooth-scroll').smoothScroll();
     
 
-      });
+  
 
      
 
